@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'solidus_core'
-  s.version     = '1.0.0'
+  s.version     = '2.0.0'
   s.summary     = 'Essential models, mailers, and classes for the Solidus e-commerce project.'
   s.description = s.summary
 
