@@ -1,10 +1,9 @@
 # encoding: UTF-8
-version = File.read(File.expand_path("../../SOLIDUS_VERSION", __FILE__)).strip
 
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'solidus_core'
-  s.version     = version
+  s.version     = '1.0.0'
   s.summary     = 'Essential models, mailers, and classes for the Solidus e-commerce project.'
   s.description = s.summary
 
